@@ -438,27 +438,27 @@ Distributor is entered in the Extra field in the form publisher: Internet Archiv
 
 ...............................................................................................................................................
 
-##### <u>E-mail</u>:
+##### <u>Email</u>:
 
-Používejte typ položky „*E-mail*“ (položky „*Dopis*“ a „*Zpráva IM*“ fungují stejně).
+Use the "*E-mail*" item type (the "*Letter*" and "*IM Message*" items work the same).
 
-V harvardském systému je celé datum uvedené za názvem mailu.
+In the Harvard system, the full date is given after the name of the email.
 
 
 
 ...............................................................................................................................................
 
-##### <u>Příspěvek na sociální síti</u>:
+##### <u>Post on social network</u>:
 
-Používejte typ položky „*Příspěvek ve fóru*“ (typ položky „*Příspěvek v blogu*“ by měl fungovat stejně).
+Use the "*Forum Post*" item type (the "*Blog Post*" item type should work the same).
 
-Pokud je k dispozici jméno autora, píše se do pole Autor, v tom případě nick autora se píše do pole Extra ve tvaru nick: @ochranceprav
+If the author's name is available, it is entered in the Author field, in which case the author's nickname is entered in the Extra field in the form nick: @ochranceprav
 
-Pokud není k dispozici jméno autora, pak se do pole Autor píše nick v [ ].
+If the author's name is not available, then the nickname in [ ] is entered in the Author field.
 
-Název sociální sítě se píše do pole Název fóra.
+Type the name of the social network in the Forum/listserv Title field.
 
-Zotero nepracuje s přesným časem, stačí jen celé datum publikování příspěvku.
+Zotero doesn't work with the exact time, just the full date the post is posted.
 
 
 
@@ -466,19 +466,19 @@ Zotero nepracuje s přesným časem, stačí jen celé datum publikování pří
 
 ##### <u>Video</u>:
 
-Používejte typ položky „*Video nahrávka*“.  (Typ položky „*Film*“ funguje stejně, „*Video nahrávka*“ má víc možností.) 
+Use the "*Video Recording*" item type. (The "*Film*" item type works the same, "*Video Recording*" has more options.)  
 
-Role režiséra je v bibliografické citaci označena slovem (režie). 
+The role of the director is indicated in the reference by the word (director). 
 
-Přednášející se píše do pole Přispěvatel. 
+The speaker is entered in the Contributor field. 
 
-Vydání či verze se píší do pole Extra ve tvaru edition: 2. vyd. 
+Edition or version is entered in the Extra field in the form edition: 2nd ed. 
 
-Filmové studio či vydavatel se píší do pole Studio. 
+Film studio or publisher is entered in the Studio field. 
 
-V případě videí na online platformách se do pole Archiv píše název platformy (YouTube, Vimeo atd.). Do pole Místo v archivu se píše autor kanálu. 
+For videos on online platforms, the name of the platform (YouTube, Vimeo, etc.) is entered in the Archive field. In the Loc. in Archive field, enter the channel author. 
 
-Pokud je k dispozici celé datum, píše se do pole Datum; v poli Extra musí být příznak ve tvaru cele-datum: ano.
+If a whole date is available, it is entered in the Date field; the Extra field must contain a flag cele-datum: ano. (Again, sorry for the Czech form.)
 
 
 
@@ -486,15 +486,15 @@ Pokud je k dispozici celé datum, píše se do pole Datum; v poli Extra musí b�
 
 ##### <u>Dataset</u>:
 
-Používejte typ položky „*Dataset*“. 
+Use the "*Dataset*" item type. 
 
-Vydání či verze se píší do pole Verze. 
+Editions or version is entered in the Version field. 
 
-If a full date is available, it is entered in the Date field; the Extra field must contain a flag in the format  cele-datum: ano (I apologize for the Czech form and hope that it will not often be needed.). Toto datum je v bibliografické citaci uváděné ve formátu RRRR-MM-DD, chybí původní podoba data. 
+If a full date is available, it is entered in the Date field; the Extra field must contain a flag in the format  cele-datum: ano (I apologize for the Czech form and hope that it will not often be needed.). This date is given in the reference in the format YYYY-MM-DD, the original form of the date is missing. 
 
-Systémové požadavky či velikost souboru lze zapsat na nový řádek do pole Extra a budou vloženy na konec bibliografické citace.
+System requirements or file size can be written on a new line in the Extra field and will be inserted at the end of the reference.
 
-*<mark>Upozornění</mark>*: Toto je nový typ dokumentu, který by měl být přidaný do Zotera ve verzi 7. Pokud ho v nabídce nemáte, pak doporučuji stáhnout si beta verzi Zotera (z https://www.zotero.org/support/beta_builds, nejlépe zip, tedy lokální spuštění). Staženou beta verzi spustit a pak by měla být i v normálním Zoteru položka Dataset. Beta verzi je následně možné smazat.
+*<mark>Note</mark>*: This is a new document type that should be added to Zotero in version 7. If you don't have it, then I recommend downloading the beta version of Zotero (from https://www.zotero.org/support/beta_builds, preferably zip, i.e. local launch). Run the downloaded beta version and then there should be a Dataset item in your Zotero. The beta version can then be deleted.
 
 
 
@@ -502,84 +502,84 @@ Systémové požadavky či velikost souboru lze zapsat na nový řádek do pole 
 
 ##### <u>Software</u>:
 
-Používejte typ položky „*Software*“.
+Use the "*Software*" item type.
 
-Formát souboru se píše do pole Extra ve tvaru genre: program
+The file format is written in the Extra field in the form genre: program
 
-Vydavatel se píše do pole Společnost.
+The publisher is entered in the Company field.
 
-If a full date is available, it is entered in the Date field; the Extra field must contain a flag in the format  cele-datum: ano (I apologize for the Czech form and hope that it will not often be needed.). Toto datum je v bibliografické citaci uváděné ve formátu RRRR-MM-DD, chybí původní podoba data.
+If a full date is available, it is entered in the Date field; the Extra field must contain a flag in the format  cele-datum: ano (I apologize for the Czech form and hope that it will not often be needed.). This date is given in the reference in the format YYYY-MM-DD, the original form of the date is missing.
 
-Distributor se píše do pole Archiv.
+Distributor is entered in the Archive field.
 
-Systémové požadavky se píší do pole Systém.
+System requirements are entered in the System field.
 
-Velikost souboru lze zapsat na nový řádek do pole Extra a bude vložen na konec bibliografické citace.
-
-
-
-...............................................................................................................................................
-
-##### <u>Přednáška</u>:
-
-Používejte typ položky „*Prezentace*“.
-
-Lektoři se píší do pole Prezentující.
-
-Typ zdroje se píše do pole Typ.
-
-Celé datum se píše do pole Datum. Zotero nepracuje s časem, v citaci bude pouze kompletní datum konání.
-
-Pořadatel se píše do pole Extra ve tvaru publisher: Technická univerzita v Liberci
+The file size can be written on a new line in the Extra field and will be inserted at the end of the reference.
 
 
 
 ...............................................................................................................................................
 
-##### <u>Rozhovor</u>:
+##### <u>Lecture</u>:
 
-Používejte typ položky „*Rozhovor*“.
+Use the "*Presentation*" item type.
 
-Účastníci rozhovoru se píší do pole Rozhovor s.
+Lecturers are entered in the Presenter field.
 
-Celé datum se píše do pole Datum.
+The source type is entered in the Type field.
 
-Typ zdroje se píše do pole Médium.
+The full date is entered in the Date field. Zotero does not work with time, only the complete date of the event will be in the reference.
 
-Místo konání rozhovoru se píše do pole Extra ve tvaru publisher-place: Liberec
-
-Případný pořadatel rozhovoru se píše do pole Extra ve tvaru publisher: Marta Zizienová
+The organizer is written in the Extra field in the form publisher: Technical University of Liberec
 
 
 
 ...............................................................................................................................................
 
-##### <u>Obrázek</u>:
+##### <u>Discussion</u>:
 
-Používejte typ položky „*Umělecké dílo*“.
+Use the "*Interview*" item type.
 
-Formát se píše do pole Médium.
+Interviewees are entered in the Interview with field.
+
+The full date is entered in the Date field.
+
+Type the source type in the Medium field.
+
+The location of the interview is entered in the Extra field in the form publisher-place: Liberec
+
+The potential organizer of the interview is entered in the Extra field in the form publisher: Marta Zizienová
+
+
+
+...............................................................................................................................................
+
+##### <u>Image</u>:
+
+Use the "*Artwork*" item type.
+
+The format is entered in the Media field.
 
 If a full date is available, it is entered in the Date field; the Extra field must contain a flag in the format  cele-datum: ano (I apologize for the Czech form and hope that it will not often be needed.) 
 
-Zdrojová databáze či název galerie se píše do pole Katalog knihovny.
+The source database or gallery name is entered in the Loc. in Archive field.
 
-*<mark>Pozn. 1</mark>*: Tento typ používejte pouze pro samostatné obrázky na Internetu (z databází typu Wikimedia Commons, Europeana, Flickr aj.) či pro fyzická umělecká díla v galeriích apod.
+*<mark>Note 1</mark>*: Use this type only for standalone images on the Internet (from databases such as Wikimedia Commons, Europeana, Flickr, etc.) or for physical artworks in galleries, etc.
 
-Pokud je obrázek součástí článku, knihy, webové stránky atp. a jeho autoři jsou stejní, jako autoři dotyčného dokumentu, pak citujte jen ten dotyčný dokument (tedy článek, webovou stránku, knihu aj.).
+If the image is part of an article, book, website, etc. and its authors are the same as the authors of the document in question, then cite only the document in question (i.e. the article, web page, book, etc.).
 
-*<mark>Pozn. 2</mark>*: Pokud se obrázek cituje jako kapitola knihy či webová stránka (tedy typ Kapitola knihy či Webová stránka), formát se píše do pole Extra ve tvaru medium: obraz; rytina
+*<mark>Note 2</mark>*: If the image is cited as a book chapter or web page, the format is entered in the Extra field as medium: image; engraving
 
-Takto citovat by se mělo jen v případech, kdy je autor obrázku jiný než autor zdrojového dokumentu, jehož je obrázek součástí.
+This reference should only be used when the author of the image is different from the author of the source document of which the image is a part.
 
 
 
 ...............................................................................................................................................
 
-##### **<u>Článek v encyklopedii, záznam ve slovníku, entry</u>**:
+##### **<u>Encyclopedia article, dictionary entry, entry</u>**:
 
-Typy položek „*Článek v encyklopedii*“, „*Záznam ve slovníku*“ a připravovaný typ položky „*Entry*“.
+Item types "*Encyclopedia article*", "*Dictionary entry*" and the upcoming item type "*Entry*".
 
-Tento dyp dokumentu nemá definovaný vzor v Metodice citování. Patří sem hesla a termíny z encyklopedií či tezaurů (Wikipedie, MeSH, Ottův slovník naučný, Britannica Dictionary aj.).
+This document dyp does not have a defined pattern in the Citation Guidelines. This includes entries and terms from encyclopedias or thesauri (Wikipedia, MeSH, Otto's Learned Dictionary, Britannica Dictionary, etc.).
 
-*<mark>Pozn.</mark>*: Kdyby náhodou měl záznam DOI, což se výjimečně stává, tak do pole URL uveďte https://doi.org/ s dotyčným číslem DOI (např. https://doi.org/10.1036/1097-8542.YB150959). Samotné DOI pak už nikam nezapisujte.
+*<mark>Note</mark>*: If the record happens to have a DOI assigned to it, which is rarely the case, enter the following in the URL field https://doi.org/ with the relevant DOI number (i.e. https://doi.org/10.1036/1097-8542.YB150959). Do not write the DOI itself anywhere else.
