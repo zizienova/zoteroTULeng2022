@@ -6,6 +6,8 @@ according to ČSN ISO 690:2022 and ISO:2021 and Citation Guidelines (see https:/
 ## Installation instructions:
 https://github.com/zizienova/zoteroTULeng2022/releases
 
+(If you write your paper in Czech, use the Czech version from https://github.com/zizienova/zoteroTUL2022.)
+
 
 =============================================================
 
