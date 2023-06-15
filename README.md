@@ -1,7 +1,7 @@
 # zoteroTULeng2022
 citation style for Technical University of Liberec for Zotero, for those writing in English
 
-according to ČSN ISO 690:2022 and ISO:2021 and Citation Guidelines (see https://dspace.tul.cz/bitstream/handle/15240/172152/citation_guidelines%2020230530.pdf?sequence=1&isAllowed=y)
+according to ČSN ISO 690:2022 and ISO:2021 and Citation Guidelines (see https://publi.cz/download/publication/2762?online=1)
 
 ## Installation instructions:
 https://github.com/zizienova/zoteroTULeng2022/releases
@@ -105,7 +105,7 @@ Production date: from 2023-05 to 2023-05-06
 
 **Usage:** for the Technical University of Liberec
 
-**Purpose:** Incorporation of citation style for the Technical University of Liberec according to *Citation Guidelines, from 2023, which is based on the ISO 690:2021 standard. *Citation Guidelines *is freely available at: https://dspace.tul.cz/bitstream/handle/15240/172152/citation_guidelines%2020230530.pdf?sequence=1&isAllowed=y
+**Purpose:** Incorporation of citation style for the Technical University of Liberec according to *Citation Guidelines, from 2023, which is based on the ISO 690:2021 standard. *Citation Guidelines *is freely available at: https://publi.cz/download/publication/2762?online=1
 
 **Kudos:** This citation style is based on the citation style developed by Jiří Kratochvíl and Libor Ansorge and we would like to thank them (http://www.zotero.org/styles/iso690-author-date-cs).
 
@@ -115,7 +115,7 @@ Production date: from 2023-05 to 2023-05-06
 
 ### Which documents can be cited:
 
-The style is adapted for the types of documents most frequently cited by TUL students, as defined in *Citation Guidelines* (viz https://dspace.tul.cz/bitstream/handle/15240/172152/citation_guidelines%2020230530.pdf?sequence=1&isAllowed=y). These are:
+The style is adapted for the types of documents most frequently cited by TUL students, as defined in *Citation Guidelines* (see https://publi.cz/download/publication/2762?online=1). These are:
 
 - books
 
